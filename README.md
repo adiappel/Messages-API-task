@@ -29,6 +29,7 @@ GET https://messages-api-nodejs.herokuapp.com/messages/<messageId>
 *Delete message (as owner or as receiver)
 DELETE https://messages-api-nodejs.herokuapp.com/messages/<messageId>
 
+-----------------------------------------------------------------------------
   
 Postman requests example:
 1. Check that there aren't any messages at this point:
